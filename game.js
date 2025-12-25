@@ -16,7 +16,7 @@ const PLAYER_WIDTH = 50;
 const PLAYER_HEIGHT = 30;
 const ENEMY_WIDTH = 40;
 const ENEMY_HEIGHT = 30;
-const BULLET_WIDTH = 4;
+const BULLET_WIDTH = 8;
 const BULLET_HEIGHT = 10;
 const ENEMY_SHOOT_CHANCE = 0.001; // Probability per frame
 
